@@ -1,0 +1,59 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => <img class="teacher" src="https://up.7learn.com/m/c/2-00q.png">
+            [1] => <img class="teacher-avatar" src="https://up.7learn.com/m/c/2-00q.png" alt="تصویر مسعود کاویانی">
+        )
+
+    [1] => Array
+        (
+            [0] => "teacher" src="https://up.7learn.com/m/c/2-00q.png"
+            [1] => "teacher-avatar" src="https://up.7learn.com/m/c/2-00q.png" alt="تصویر مسعود کاویانی"
+        )
+
+)
+
+Array
+(
+    [0] => Array
+        (
+            [0] => <img class="teacher" src="https://up.7learn.com/m/c/2-00q.png">
+            [1] => <img src="https://s.7learn.com/themes/slt/assets//common/img/demo/flutter-logo.png">
+            [2] => <img src="https://s.7learn.com/themes/slt/assets//pics/brands/digikala.png">
+            [3] => <img src="https://s.7learn.com/themes/slt/assets//pics/brands/takhfifan.png">
+            [4] => <img src="https://s.7learn.com/themes/slt/assets//pics/brands/7learn.png">
+            [5] => <img src="https://s.7learn.com/themes/slt/assets//pics/brands/hamyar.png">
+            [6] => <img src="https://s.7learn.com/themes/slt/assets//pics/brands/namava.png">
+            [7] => <img src="https://s.7learn.com/themes/slt/assets//pics/brands/ict.png">
+            [8] => <img src="https://s.7learn.com/themes/slt/assets//pics/brands/irankhodro.png">
+            [9] => <img src="https://s.7learn.com/themes/slt/assets//pics/brands/snappfood.png">
+            [10] => <img src="https://s.7learn.com/themes/slt/assets//pics/brands/lastsecond.png">
+            [11] => <img src="https://s.7learn.com/themes/slt/assets//pics/brands/alibaba.png">
+            [12] => <img src="https://s.7learn.com/themes/slt/assets//pics/brands/zhaket.png">
+            [13] => <img class="teacher-avatar" src="https://up.7learn.com/m/c/2-00q.png" alt="تصویر مسعود کاویانی">
+            [14] => <img src="https://s.7learn.com/themes/slt/assets/pics/iconly-list.svg" alt="">
+            [15] => <img src="https://s.7learn.com/themes/slt/assets/pics/iconly-list.svg">
+        )
+
+    [1] => Array
+        (
+            [0] => class="teacher" src="https://up.7learn.com/m/c/2-00q.png"
+            [1] => src="https://s.7learn.com/themes/slt/assets//common/img/demo/flutter-logo.png"
+            [2] => src="https://s.7learn.com/themes/slt/assets//pics/brands/digikala.png"
+            [3] => src="https://s.7learn.com/themes/slt/assets//pics/brands/takhfifan.png"
+            [4] => src="https://s.7learn.com/themes/slt/assets//pics/brands/7learn.png"
+            [5] => src="https://s.7learn.com/themes/slt/assets//pics/brands/hamyar.png"
+            [6] => src="https://s.7learn.com/themes/slt/assets//pics/brands/namava.png"
+            [7] => src="https://s.7learn.com/themes/slt/assets//pics/brands/ict.png"
+            [8] => src="https://s.7learn.com/themes/slt/assets//pics/brands/irankhodro.png"
+            [9] => src="https://s.7learn.com/themes/slt/assets//pics/brands/snappfood.png"
+            [10] => src="https://s.7learn.com/themes/slt/assets//pics/brands/lastsecond.png"
+            [11] => src="https://s.7learn.com/themes/slt/assets//pics/brands/alibaba.png"
+            [12] => src="https://s.7learn.com/themes/slt/assets//pics/brands/zhaket.png"
+            [13] => class="teacher-avatar" src="https://up.7learn.com/m/c/2-00q.png" alt="تصویر مسعود کاویانی"
+            [14] => src="https://s.7learn.com/themes/slt/assets/pics/iconly-list.svg" alt=""
+            [15] => src="https://s.7learn.com/themes/slt/assets/pics/iconly-list.svg"
+        )
+
+)
